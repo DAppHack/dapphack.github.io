@@ -268,3 +268,7 @@ color: white !important;
   background-color: black;
 
 }
+
+.alert  a{
+  text-decoration: underline;
+}
